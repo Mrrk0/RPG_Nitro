@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_Nitro.CSharp.Plugins", "RPG_Nitro.CSharp.Plugins.csproj", "{8BB0ACA5-D5A3-954E-6774-13454DF46EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_Nitro.CSharp", "RPG_Nitro.CSharp.csproj", "{2EA91204-1618-1E15-1AF1-1DE6F0D8210B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_Nitro.CSharp.Editor", "RPG_Nitro.CSharp.Editor.csproj", "{D35141C9-F2AF-0F75-C473-7B79E4389742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB0ACA5-D5A3-954E-6774-13454DF46EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB0ACA5-D5A3-954E-6774-13454DF46EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB0ACA5-D5A3-954E-6774-13454DF46EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB0ACA5-D5A3-954E-6774-13454DF46EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA91204-1618-1E15-1AF1-1DE6F0D8210B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA91204-1618-1E15-1AF1-1DE6F0D8210B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA91204-1618-1E15-1AF1-1DE6F0D8210B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA91204-1618-1E15-1AF1-1DE6F0D8210B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35141C9-F2AF-0F75-C473-7B79E4389742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35141C9-F2AF-0F75-C473-7B79E4389742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35141C9-F2AF-0F75-C473-7B79E4389742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35141C9-F2AF-0F75-C473-7B79E4389742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
